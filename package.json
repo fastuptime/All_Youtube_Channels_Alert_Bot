@@ -1,0 +1,28 @@
+{
+  "name": "fastyt-all-channel",
+  "version": "1.0.0",
+  "description": "All Youtube Channels Alert Bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "youtube",
+    "video",
+    "alert",
+    "discord",
+    "bot",
+    "fastuptime",
+    "can",
+    "fastyt"
+  ],
+  "author": "Can & FastUptime",
+  "repository": "fastuptime/All_Youtube_Channels_Alert_Bot",
+  "license": "ISC",
+  "dependencies": {
+    "croxydb": "^0.0.7",
+    "fastyt": "^1.0.0",
+    "node-cron": "^3.0.2"
+  }
+}
